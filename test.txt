@@ -1,0 +1,2 @@
+测试 gid diff 命令
+在 git add 之后再修改test文件
