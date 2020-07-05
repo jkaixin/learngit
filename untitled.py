@@ -4,7 +4,8 @@ def func1():
 
 
 
-
+def func2():
+    print('运行func2')
 
 
 
